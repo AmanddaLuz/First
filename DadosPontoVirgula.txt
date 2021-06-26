@@ -1,0 +1,4 @@
+﻿1; Paulo Campos; Rua a, 32; BH; casado
+2; José Silva; Rua b, 64; SP; solteiro
+3; Maria; Rua C, 96; RJ; separado
+4; Carla Costa; Rua d, 128; ES; casado
